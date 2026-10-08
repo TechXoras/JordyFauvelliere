@@ -2,7 +2,7 @@
 
 ## 👨‍💻 Technicien Systèmes & Réseaux
 
-Je suis actuellement en reconversion professionnelle dans l'informatique.
+Je suis en reconversion professionnelle dans l'informatique.
 
 J'ai suivi une formation de Technicien Supérieur Systèmes et Réseaux (TSSR) au sein de EEDN.
 
@@ -33,4 +33,4 @@ Je recherche aujourd'hui ma première opportunité professionnelle dans l'IT.
 
 ## 🔗 Liens
 
-- [LinkedIn] https://www.linkedin.com/in/jordyfauvelliere/
+- [LinkedIn](https://www.linkedin.com/in/jordyfauvelliere/)
